@@ -1,1 +1,27 @@
+#form{
+    width: 400px;
+    height: 600px;
+    font-size: 16px;
+    background-color: blueviolet;
+    margin-left: 400px;
+    margin-top: 60px;
+    padding-left: 25px;
 
+
+;
+}
+#form #input{
+    width:270px;
+    margin-bottom: 10px;
+    height:22px
+
+}
+#select{
+    width:200px;
+    font-size:16px;
+    
+
+}
+#1{
+    padding-left:0;
+}
